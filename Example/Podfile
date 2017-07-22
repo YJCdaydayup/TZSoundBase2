@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TZSoundBase2_Example' do
+  pod 'TZSoundBase2', :path => '../'
+
+  target 'TZSoundBase2_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
