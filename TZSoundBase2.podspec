@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-基础组件包含了我们的分类，基础配置，宏
+                               基础组件包含了我们的分类，基础配置，宏
                        DESC
                        
 
