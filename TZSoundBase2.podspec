@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
                        DESC
                        
 
-  s.homepage         = 'https://github.com/yangli123456/TZSoundBase2'
+  s.homepage         = 'https://github.com/yangli123456/TZSoundBase2.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yangli123456' => 'jeff.qq.com' }
