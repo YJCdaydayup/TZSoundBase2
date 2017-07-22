@@ -17,7 +17,9 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = ‘基础组件包含了分类，基础配置，宏定义，常量等等’
+  s.description      = <<-DESC
+基础组件包含了我们的分类，基础配置，宏
+                       DESC
                        
 
   s.homepage         = 'https://github.com/yangli123456/TZSoundBase2'
