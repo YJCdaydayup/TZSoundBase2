@@ -1,0 +1,16 @@
+PODS:
+  - TZSoundBase2 (0.1.0)
+
+DEPENDENCIES:
+  - TZSoundBase2 (from `../`)
+
+EXTERNAL SOURCES:
+  TZSoundBase2:
+    :path: ../
+
+SPEC CHECKSUMS:
+  TZSoundBase2: a3c83315039154abab682666470a0e0d27f7edce
+
+PODFILE CHECKSUM: 0141f259313c3956bd078aca02a201fb1df5b783
+
+COCOAPODS: 1.2.1
